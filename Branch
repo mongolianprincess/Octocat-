@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+branch is a pointer that looks at snapshots of commits that you've made, moving forward automatically after each commit
